@@ -1,0 +1,71 @@
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:0:index of A is 0.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:0:index of A is 0 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:0:index of A is 0.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:2:index of Z is 25.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:2:index of Z is 25 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:2:index of Z is 25.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:4:index of M is 12.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:4:index of M is 12 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:4:index of M is 12.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:6:Custom rotor wiring, top letter A.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:6:Custom rotor wiring, top letter A is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:6:Custom rotor wiring, top letter A.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:8:Custom wiring, top letter B, input_pos 7.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:8:Custom wiring, top letter B, input_pos 7 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:8:Custom wiring, top letter B, input_pos 7.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:10:Rotor 3 wiring, large Top letter O, large input_pos 14 .
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:10:Rotor 3 wiring, large Top letter O, large input_pos 14  is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:10:Rotor 3 wiring, large Top letter O, large input_pos 14 .
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:12:Rotor wiring 1, base top letter A, input_pos 0.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:12:Rotor wiring 1, base top letter A, input_pos 0 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:12:Rotor wiring 1, base top letter A, input_pos 0.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:14:Rotor wiring 2, Top letter C, input pos 5.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:14:Rotor wiring 2, Top letter C, input pos 5 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:14:Rotor wiring 2, Top letter C, input pos 5.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:16:Rotor 3 wiring, large Top letter F, large input_pos 10.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:16:Rotor 3 wiring, large Top letter F, large input_pos 10 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:16:Rotor 3 wiring, large Top letter F, large input_pos 10.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:18:No reflection, input 4.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:18:No reflection, input 4 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:18:No reflection, input 4.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:20:Testing reverse reflection; 5 should map to 18, 18 should map to 5.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:20:Testing reverse reflection; 5 should map to 18, 18 should map to 5 is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:20:Testing reverse reflection; 5 should map to 18, 18 should map to 5.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:22:Testing for directionless reflection again.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:22:Testing for directionless reflection again is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:22:Testing for directionless reflection again.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:24:1 plug.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:24:1 plug is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:24:1 plug.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:26:No plug for inputted char.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:26:No plug for inputted char is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:26:No plug for inputted char.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:28:Reverse order again .
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:28:Reverse order again  is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:28:Reverse order again .
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:30:13 Plugs reverse order.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:30:13 Plugs reverse order is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:30:13 Plugs reverse order.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:32:Full PB, No rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:32:Full PB, No rotors, refl is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:32:Full PB, No rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:34:Full PB, 3 rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:34:Full PB, 3 rotors, refl is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:34:Full PB, 3 rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:36:Full PB, 4 rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:36:Full PB, 4 rotors, refl is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:36:Full PB, 4 rotors, refl.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:38:Wrap around from Z to A.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:38:Wrap around from Z to A is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:38:Wrap around from Z to A.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:40:3rd rotor Steps.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Test test suite for A1:40:3rd rotor Steps is successful.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:40:3rd rotor Steps.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: Start test test suite for A1:42:Initial Example.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: Test test suite for A1:42:Initial Example exited with an error.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: Failure("Unimplemented: Enigma.cipher") in test test suite for A1:42:Initial Example.
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: Raised at Enigma.cipher in file "src/enigma.ml", line 219, characters 2-48
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: Called from Dune__exe__Main.cipher_test.(fun) in file "test/main.ml", line 54, characters 53-70
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 E: 
+2022-02-07T04:01:26+00:00 dhcp-vl2041-13351.eduroam.cornell.edu#01 I: End test test suite for A1:42:Initial Example.
